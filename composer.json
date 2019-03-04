@@ -1,5 +1,5 @@
 {
-	"name" : "iki-cz/omnipay-csob-sk",
+	"name" : "comgate-payments/omnipay-csob-sk",
 	"type" : "library",
 	"description" : "CSOB SK driver for the Omnipay payment processing library",
 	"keywords" : [
