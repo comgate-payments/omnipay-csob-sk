@@ -1,0 +1,7 @@
+Nasledovne subory su umyselne poskodene. V tomto priecinku su len ako vzor.
+
+key_VOD.key
+cert_VOD.pem
+
+Uz neplatny subor. Banku je potrebne poziadat o novy
+sica_root_key_20090901.pem

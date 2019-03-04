@@ -1,0 +1,35 @@
+{
+	"name" : "iki-cz/omnipay-csob-sk",
+	"type" : "library",
+	"description" : "CSOB SK driver for the Omnipay payment processing library",
+	"keywords" : [
+		"csob",
+		"epay",
+		"gateway",
+		"merchant",
+		"omnipay",
+		"pay",
+		"payment"
+	],
+	"homepage" : "https://github.com/iki-cz/omnipay-csob-sk",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Tomas Novotny",
+			"email" : "tn777092285@gmail.com"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"Omnipay\\" : "src/"
+		}
+	},
+	"require" : {
+		"omnipay/common" : "~3.0"
+	},
+	"require-dev" : {
+		"omnipay/tests" : "~3.0"
+	},
+	"scripts" : {
+		"test" : "phpunit"
+	}
+}
